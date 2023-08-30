@@ -7,7 +7,7 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>About Me</SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
-          A dedicated Full Stack Web Developer, proficient in crafting both
+          I am a dedicated Full Stack Web Developer, proficient in crafting both
           frontend and backend solutions for Websites and Web Applications,
           driving the overall success of the product. Explore some of my
           projects in theProjects section. I am eager and open to new
