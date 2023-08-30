@@ -1,4 +1,4 @@
-import myImg from "../images/hero.jpg";
+import myImg from "../images/kem.jpg";
 import SectionTitle from "./SectionTitle";
 
 function About() {
@@ -28,7 +28,7 @@ function About() {
 
       <img
         src={myImg}
-        alt="Arfan"
+        alt="Francis"
         className="w-full md:w-6/12 rounded-lg object-cover"
       />
     </div>
