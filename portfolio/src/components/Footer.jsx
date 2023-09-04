@@ -8,7 +8,7 @@ function Footer() {
         href="mailto:webcifar@gmail.com"
         className="text-sm md:text-md hover:text-indigo-500"
       >
-        iwufrancischisom20@gmial.com
+        iwufrancischisom20@gmail.com
       </a>
       <p className="text-xs mt-2 text-gray-500">
         © Creative {new Date().getFullYear()}. All rights reserved

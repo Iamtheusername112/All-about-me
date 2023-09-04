@@ -1,10 +1,9 @@
 export default [
   {
-    title: "TechHub-Blog",
-    imgUrl:
-      "https://raw.githubusercontent.com/ShaifArfan/techHub-blog/main/banner.png",
-    tech: ["React JS", "Gatsby JS", "Sanity.io"],
-    workUrl: "https://github.com/ShaifArfan/techHub-blog",
+    title: "Task-handler",
+    imgUrl: "https://hive.com/wp-content/uploads/2022/06/to-do-list.jpg",
+    tech: ["React JS", "Javascript[ES6]"],
+    workUrl: "https://task-handller.netlify.app",
   },
   {
     title: "Shaif'f Cuisine",

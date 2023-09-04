@@ -10,7 +10,7 @@ function About() {
           I am a dedicated Full Stack Web Developer, proficient in crafting both
           frontend and backend solutions for Websites and Web Applications,
           driving the overall success of the product. Explore some of my
-          projects in theProjects section. I am eager and open to new
+          projects in the Projects section. I am eager and open to new
           opportunities, ready to embrace different technology stacks and
           enhance my skillset. Adapting and learning are key elements of my
           approach to ensure I contribute effectively to any project. I am open
