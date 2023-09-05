@@ -12,11 +12,4 @@ export default [
     tech: ["React", "Tailwindcss", "Node", "Express"],
     workUrl: "https://mobile-marvel.netlify.app/",
   },
-  {
-    title: "Mobile-marvel phone catalog",
-    imgUrl:
-      "https://blog.tubikstudio.com/wp-content/uploads/2021/05/task-manager-mobile-application-tubik-1024x768.png",
-    tech: ["React", "Tailwindcss", "Node", "Express"],
-    workUrl: "https://mobile-marvel.netlify.app/",
-  },
 ];
