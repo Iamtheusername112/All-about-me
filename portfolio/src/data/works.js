@@ -12,4 +12,19 @@ export default [
     tech: ["React", "Tailwindcss", "Node", "Express"],
     workUrl: "https://mobile-marvel.netlify.app/",
   },
+  {
+    title: "MEARNauth-app",
+    imgUrl:
+      "https://i.pinimg.com/736x/3e/38/59/3e38597fd3a0eaaaa87c580719e9290c--screens-ux.jpg",
+    tech: [
+      "MongoDB",
+      "Express",
+      "React JS",
+      "Node",
+      "Javascript[ES6]",
+      "JWT",
+      "CSS3",
+    ],
+    workUrl: "https://mernauth-app.netlify.app/",
+  },
 ];
