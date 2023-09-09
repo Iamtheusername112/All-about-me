@@ -1,5 +1,19 @@
 export default [
   {
+    title: "SweetEaze",
+    imgUrl: "https://i.ytimg.com/vi/FIRVyS6zsFQ/sddefault.jpg",
+    tech: [
+      "MongoDB",
+      "Express",
+      "React JS",
+      "Node",
+      "Javascript[ES6]",
+      "Bootstrap",
+      "CSS3",
+    ],
+    workUrl: "https://mobile-marvel.netlify.app/",
+  },
+  {
     title: "MEARNauth-app",
     imgUrl:
       "https://i.pinimg.com/736x/3e/38/59/3e38597fd3a0eaaaa87c580719e9290c--screens-ux.jpg",
@@ -14,12 +28,7 @@ export default [
     ],
     workUrl: "https://mernauth-app.netlify.app/",
   },
-  {
-    title: "Task-handler",
-    imgUrl: "https://hive.com/wp-content/uploads/2022/06/to-do-list.jpg",
-    tech: ["MongoDB", "Express", "React JS", "Node", "Javascript[ES6]"],
-    workUrl: "https://task-handller.netlify.app",
-  },
+
   {
     title: "Mobile-marvel phone catalog",
     imgUrl:
@@ -28,17 +37,9 @@ export default [
     workUrl: "https://mobile-marvel.netlify.app/",
   },
   {
-    title: "SweetEaze",
-    imgUrl: "https://i.ytimg.com/vi/FIRVyS6zsFQ/sddefault.jpg",
-    tech: [
-      "MongoDB",
-      "Express",
-      "React JS",
-      "Node",
-      "Javascript[ES6]",
-      "Bootstrap",
-      "CSS3",
-    ],
-    workUrl: "https://mobile-marvel.netlify.app/",
+    title: "Task-handler",
+    imgUrl: "https://hive.com/wp-content/uploads/2022/06/to-do-list.jpg",
+    tech: ["MongoDB", "Express", "React JS", "Node", "Javascript[ES6]"],
+    workUrl: "https://task-handller.netlify.app",
   },
 ];
