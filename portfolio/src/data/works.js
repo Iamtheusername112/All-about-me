@@ -11,7 +11,7 @@ export default [
       "Bootstrap",
       "CSS3",
     ],
-    workUrl: "https://mobile-marvel.netlify.app/",
+    workUrl: "https://sweet-eaze.netlify.app/",
   },
   {
     title: "MEARNauth-app",
