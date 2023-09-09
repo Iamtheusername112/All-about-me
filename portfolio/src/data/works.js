@@ -27,4 +27,18 @@ export default [
     tech: ["React", "Tailwindcss", "Node", "Express"],
     workUrl: "https://mobile-marvel.netlify.app/",
   },
+  {
+    title: "SweetEaze",
+    imgUrl: "https://i.ytimg.com/vi/FIRVyS6zsFQ/sddefault.jpg",
+    tech: [
+      "MongoDB",
+      "Express",
+      "React JS",
+      "Node",
+      "Javascript[ES6]",
+      "Bootstrap",
+      "CSS3",
+    ],
+    workUrl: "https://mobile-marvel.netlify.app/",
+  },
 ];
