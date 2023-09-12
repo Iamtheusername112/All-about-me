@@ -16,7 +16,7 @@ function HeroSection() {
           href="#works"
           className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:text-md "
         >
-          See Works
+          See my projects
         </a>
       </div>
     </div>
