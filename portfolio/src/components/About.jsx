@@ -22,7 +22,7 @@ function About() {
           href="mailto:webcifar.com"
           className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
         >
-          iwufrancischisom20@gmail.com <br />{" "}
+          iwufrancischisom20@gmail.com <br />
           https://www.linkedin.com/in/francis-iwu-878973238/
         </a>
       </div>
