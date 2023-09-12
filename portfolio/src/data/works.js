@@ -42,10 +42,4 @@ export default [
     tech: ["MongoDB", "Express", "React JS", "Node", "Javascript[ES6]"],
     workUrl: "https://task-handller.netlify.app",
   },
-  {
-    title: "Task-handler",
-    imgUrl: "https://hive.com/wp-content/uploads/2022/06/to-do-list.jpg",
-    tech: ["MongoDB", "Express", "React JS", "Node", "Javascript[ES6]"],
-    workUrl: "https://task-handller.netlify.app",
-  },
 ];
