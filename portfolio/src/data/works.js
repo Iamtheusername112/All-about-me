@@ -7,6 +7,7 @@ export default [
       "Express",
       "React JS",
       "Node",
+      "Redux",
       "Javascript[ES6]",
       "Bootstrap",
       "CSS3",
