@@ -19,11 +19,18 @@ function About() {
           not hesitate to contact me.
         </p>
         <a
-          href="mailto:webcifar.com"
+          href="mailto:iwufrancischisom20@gmail.com"
           className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
         >
-          iwufrancischisom20@gmail.com <br />
-          https://www.linkedin.com/in/francis-iwu-878973238/
+          iwufrancischisom20@gmail.com
+        </a>
+        <a
+          href="https://www.linkedin.com/in/francis-iwu-878973238/"
+          target="_blank"
+          rel="noreferrer"
+          className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
+        >
+          Click to see my Linkedin profile.
         </a>
       </div>
 
