@@ -5,11 +5,19 @@ function Footer() {
         Francis Iwu
       </a>
       <a
-        href="mailto:webcifar@gmail.com"
+        href="mailto:iwufrancischisom20@gmail.com"
         className="text-sm md:text-md hover:text-indigo-500"
       >
-        iwufrancischisom20@gmail.com <br />
-        https://www.linkedin.com/in/francis-iwu-878973238/
+        iwufrancischisom20@gmail.com
+      </a>
+      <br />
+      <a
+        href="https://www.linkedin.com/in/francis-iwu-878973238/"
+        target="_blank"
+        rel="noreferrer"
+        className="text-sm md:text-md hover:text-indigo-500"
+      >
+        Click to see my Linkedin profile.
       </a>
       <p className="text-xs mt-2 text-gray-500">
         © Creative {new Date().getFullYear()}. All rights reserved
