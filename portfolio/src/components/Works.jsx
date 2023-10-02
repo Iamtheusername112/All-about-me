@@ -1,6 +1,7 @@
 import works from "../data/works";
 import SectionTitle from "./SectionTitle";
 import WorkItem from "./WorkItem";
+// import phoneImage from "../images";
 
 function Works() {
   return (
