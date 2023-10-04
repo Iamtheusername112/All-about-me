@@ -11,6 +11,8 @@ export default [
       "Javascript[ES6]",
       "Bootstrap",
       "CSS3",
+      "Netlify",
+      "Render",
     ],
     workUrl: "https://sweet-eaze.netlify.app/",
   },
