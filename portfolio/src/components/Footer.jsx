@@ -17,7 +17,7 @@ function Footer() {
         rel="noreferrer"
         className="text-sm md:text-md hover:text-indigo-500"
       >
-        Click to see my Linkedin profile.
+        Click link to see my Linkedin profile.
       </a>
       <p className="text-xs mt-2 text-gray-500">
         © Creative {new Date().getFullYear()}. All rights reserved
