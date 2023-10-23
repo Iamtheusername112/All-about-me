@@ -11,6 +11,7 @@ function Works() {
         {works.map((work) => (
           <WorkItem
             key={work.title}
+            status={work.status}
             imgUrl={work.imgUrl}
             title={work.title}
             tech={work.tech}
